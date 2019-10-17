@@ -1,0 +1,24 @@
+h1 {
+        text-align: center;
+        font-size: 30pt;
+        color: blue;
+        text-decoration: underline;
+        font-family: arial;
+        font-weight: bold;
+        margin-bottom: 50px;
+    }
+h2{
+    font-family: monospace;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-size: 17pt;
+}
+h3{
+  font-family: sans-serif;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+body {
+  background-color: lightblue;
+  text-align: center;
+}
