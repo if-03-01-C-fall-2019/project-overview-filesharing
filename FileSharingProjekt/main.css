@@ -1,0 +1,54 @@
+h1 {
+        text-align: center;
+        font-size: 30pt;
+        color: #ccf2ff;
+        font-family: impact;
+        font-weight: bold;
+        margin-bottom: 50px;
+    }
+h2{
+    font-family: monospace;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-size: 17pt;
+}
+h3{
+  font-family: sans-serif;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+body {
+  background-image: url("css-glass-blur-effect-800x500.png");
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: cover;
+}
+.navbar {
+ overflow: hidden;
+ background-color: #333;
+ position: fixed;
+ top: 0;
+ left: 0;
+ width: 100%;
+}
+
+
+.navbar a {
+ float: left;
+ display: block;
+ color: #f2f2f2;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+}
+
+
+.navbar a:hover {
+ background: white;
+ color: black;
+}
+
+
+.main {
+ margin-top: 30px;
+}
